@@ -59,9 +59,9 @@ html {
 
 .section-2:after {
   content: '';
-  width: 202px;
+  width: 229px;
   position: absolute;
-  left: 324px;
+  left: 27em;
   bottom: -5px;
   border-width: 0 0 3px;
   border-style: solid;
