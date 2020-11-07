@@ -63,17 +63,17 @@ p.center-header {
   text-decoration: none;
   position: relative;
 }
-
-.section-2:after {
+/* this  does not work the way I want it to */
+/* .section-2:after {
   content: '';
   width: 229px;
   position: absolute;
-  left: 27em;
+  left: 640px;
   bottom: -5px;
   border-width: 0 0 3px;
   border-style: solid;
   border-color: #00b172;
-}
+} */
 
 .content-spotify-list {
   display: flex;
